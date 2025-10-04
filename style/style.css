@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.secao {
+    padding: 0px 30px;
+    text-align: center;
+}
+
+.primeira-secao {
+    background-color: #0b3f9f;
+    img {
+        width: 150px;
+    }
+    .menu-links {
+        padding: 20px;
+        margin-bottom: 25px;
+        a {
+            display: inline-block;
+            font-size: 18px;
+            color: #e7e7e7;
+            border-bottom: 2px solid #e7e7e7;
+            text-decoration: none;
+            margin: 0px 10px;
+        }
+    }
+}
