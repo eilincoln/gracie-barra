@@ -27,5 +27,11 @@ span {
 }
 
 .texto-azul {
-        color: #0b3f9f;
+    color: #0b3f9f;
+}
+
+.texto-vermelho {
+    background-color: #e1190d;
+    padding: 3px 8px;
+    border-radius: 5px;
 }
