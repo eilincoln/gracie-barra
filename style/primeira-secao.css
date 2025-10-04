@@ -1,20 +1,4 @@
-body {
-    margin: 0px;
-    font-family: Tahoma, Geneva, Verdana, sans-serif;
-}
 
-p {
-    margin: 10px auto;
-    width: 980px;
-    text-align: justify;
-    font-size: 18px;
-    line-height: 28px;
-}
-
-.secao {
-    padding: 0px 30px;
-    text-align: center;
-}
 
 .primeira-secao {
     background-color: #0b3f9f;
