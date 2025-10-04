@@ -15,3 +15,17 @@ p {
     padding: 0px 30px;
     text-align: center;
 }
+
+span {
+    font-weight: bold;
+}
+
+.subtitulo {
+    color: #0b3f9f;
+    margin: 0px;
+    font-weight: normal;
+}
+
+.texto-azul {
+        color: #0b3f9f;
+}

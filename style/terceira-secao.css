@@ -1,0 +1,11 @@
+.terceira-secao {
+    .titulo {
+        color: #1d1d1d;
+        margin-top: 60px;
+        margin-bottom: 5px;
+    }
+    img {
+        margin-top: 15px;
+        width: 450px;
+    }
+}
